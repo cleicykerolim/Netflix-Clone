@@ -18,7 +18,7 @@ A ideia foi recriar a plataforma da Netflix com algumas funcionalidades extras d
 
 ## Funcionalidades extras
 
-Adicionei uma janela para o filme, então assim que clicar no botão "assistir", o filme pode ser visualizado.
+Adicionei uma janela para o filme, então assim que clicar no botão "assistir agora", o filme poderá ser visualizado.
 
 ![Capturar3](https://user-images.githubusercontent.com/53884397/113211479-e2c9a380-924b-11eb-9e75-aa8ece5d24e5.JPG)
 
