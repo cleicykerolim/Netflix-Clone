@@ -1,0 +1,30 @@
+@media screen and (max-width:700px){
+	header .container{
+		display: flex;
+		flex-direction: column;
+		padding: 10px;
+	}
+	.botao{
+		margin-top: 5px;
+		width: 300px;
+	}
+	.filme-principal .descricao{
+		width: 80%;
+	}
+}
+/*@media screen and (max-width:700px){
+	.descricao{
+		width: 50%;
+	}
+}*/
+@media screen and (max-width:991px){
+	.trailer video{
+		max-width: 90%;
+	}
+}
+
+@media screen and (max-width:2000px){
+	.trailer video{
+		min-width: 80%;
+	}
+}
